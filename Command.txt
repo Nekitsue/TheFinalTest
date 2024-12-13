@@ -9,3 +9,22 @@ git add Info/InfoFile1 Info/InfoFile2
 
 Commands used for this step:
 git config user.name "Caleb Watts_INFO_INFO"
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   Command.txt
+	new file:   Info/InfoFile1
+	new file:   Info/InfoFile2
+	new file:   MyFile.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   MyFile.txt
+
+
+What I learned during this task:
+Your reflections go here.
