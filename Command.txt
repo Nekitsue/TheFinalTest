@@ -1,0 +1,11 @@
+Commands used for this step:
+git init
+git add MyFile.txt
+
+Commands used for this step:
+mkdir Info
+touch Info/InfoFile1 Info/InfoFile2
+git add Info/InfoFile1 Info/InfoFile2
+
+Commands used for this step:
+git config user.name "Caleb Watts_INFO_INFO"
